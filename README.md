@@ -25,8 +25,8 @@ GeneFinder es una herramienta educativa de escritorio para la **predicción de g
 ## Instalación
 1. Clone este repositorio o descargue el código fuente
 ```bash
-git clone https://github.com/Skeletus/BioInformatic-Proyect.git
-cd BioInformatic-Proyect
+git clone https://github.com/Skeletus/GeneFinder-BioInformatic.git
+cd GeneFinder-BioInformatic
 ```
 
 2. Instale las dependencias
